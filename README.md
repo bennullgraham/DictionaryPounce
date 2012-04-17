@@ -3,7 +3,7 @@ Dictionary Pounce
 
 A random competition arose with an IM contact where we&rsquo;d greet eachother not with
 the standard &lsquo;hello&rsquo;, &lsquo;roflmao&rsquo; etc, but with an all-caps word 
-beginning with P. The more obscure, the better. Being a nerd, and mmoreso liking to
+beginning with P. The more obscure, the better. Being a nerd, and moreso liking to
 one-up people, I wrote this simple script and had Pidgin trigger it when that contact
 came online. Said contact thought it was hilarious and spent all morning logging on and off.
 
